@@ -90,4 +90,10 @@ Use the referral code **`mexc-1944`** when signing up on MEXC in 2025 to access 
 
 ---
 
+## Disclaimer
+
+This guide is provided for informational purposes only and does not constitute financial advice. Cryptocurrency trading involves significant risk and may not be suitable for all investors. Always do your own research and consult with a financial advisor before making any investment decisions. The availability of referral codes, bonuses, and promotions is subject to change by MEXC without prior notice. Users should verify all terms and conditions on the official MEXC website.
+
+---
+
 *Feel free to open issues or submit pull requests if you want to improve this guide!*
